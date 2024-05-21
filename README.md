@@ -94,7 +94,7 @@ In Azure, navigate to Network Security Group for VM2 (Linux). Add a new Inbound 
 <br />
 
 <p>
-Done.
+Done!
 </p>
 <p>
 Note: Make sure to clean up your Virtual Machines in Azure!
